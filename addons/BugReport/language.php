@@ -4,29 +4,29 @@
  *  http://partydragen.com/
  *
  */
-// Language file for "bugreport" addon
+// Language file for "playerreport" addon
 $bugreport_language = array(
-	'bug_report' => 'Bug Report',
-	'bug_report_icon' => '', // Icon to display before the text in the navbar
-	'viewing_open_bug_report' => 'Viewing <span class="label label-info">open</span> bug reports. Change to <a href="/mod/bugreport/?view=closed"><span class="label label-danger">closed</span></a>.',
-	'viewing_closed_bug_report' => 'Viewing <span class="label label-danger">closed</span> bug reports. Change to <a href="/mod/bugreport/"><span class="label label-success">open</span></a>.',
+	'player_report' => 'Player Report',
+	'player_report_icon' => '', // Icon to display before the text in the navbar
+	'viewing_open_player_report' => 'Viewing <span class="label label-info">open</span> player reports. Change to <a href="/mod/playerreport/?view=closed"><span class="label label-danger">closed</span></a>.',
+	'viewing_closed_player_report' => 'Viewing <span class="label label-danger">closed</span> player reports. Change to <a href="/mod/playerreport/"><span class="label label-success">open</span></a>.',
 	'time_applied' => 'Time Submitted',
-	'no_bug_report' => 'No Bug Reports in this category',
-	'viewing_bug_report_from' => 'Viewing Bug Report from {x}', // Don't replace "{x}"
+	'no_player_report' => 'No Player Reports in this category',
+	'viewing_Player_report_from' => 'Viewing Player Report from {x}', // Don't replace "{x}"
 	'open' => 'Open',
 	'closed' => 'Closed',
 	'close' => 'Close',
-	'new_bug_report_submitted_alert' => 'New Bug Report submitted by {x}', // Don't replace "{x}"
+	'new_Player_report_submitted_alert' => 'New Player Report submitted by {x}', // Don't replace "{x}"
 	'new_comment' => 'New comment',
 	'comment_error' => 'Please ensure your comment is between 2 and 2048 characters long.',
 	'comments' => 'Comments',
 	'comment_added' => 'Comment added.',
 	'submit' => 'Submit',
-	'bug_report_submitted' => 'Bug Report submitted successfully.',
-	'bug_report_closed' => 'Your bug report has been closed.',
+	'player_report_submitted' => 'Bug Report submitted successfully.',
+	'player_report_closed' => 'Your Player report has been closed.',
 	'permissions' => 'Permissions:',
-	'view_bug_report' => 'View Bug Reports?',
-	'open_close_bug_report' => 'Open/Close Bug Reports?',
+	'view_player_report' => 'View Player Reports?',
+	'open_close_player_report' => 'Open/Close Player Reports?',
 	'questions' => 'Questions:',
 	'question' => 'Question',
 	'type' => 'Type',
